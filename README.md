@@ -30,7 +30,7 @@ This project is a **Jupyter Notebook-based** simulation that models a **random w
    ```bash
    jupyter notebook
    ```
-4. Open `empire_walk.ipynb` in Jupyter.
+4. Open `PredictWalk.ipynb` in Jupyter.
 
 ## ▶️ Usage  
 Run the Jupyter Notebook cell by cell to:  
