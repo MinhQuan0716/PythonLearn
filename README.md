@@ -19,8 +19,8 @@ This project is a **Jupyter Notebook-based** simulation that models a **random w
 ## 📥 Installation  
 1. Clone this repository:  
    ```bash
-   git clone 
-   cd 
+   git clone  https://github.com/MinhQuan0716/PythonLearn.git
+   cd PythonLearn
    ```
 2. Install dependencies:  
    ```bash
